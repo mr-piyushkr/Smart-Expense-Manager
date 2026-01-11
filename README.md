@@ -43,6 +43,8 @@ This project is designed with a clean UI and component-based architecture, makin
 ![Dashboard](./public/screenshot-dashboard.png) 
 ![Add Record](./public/screenshot-add-record.png)
 
+---
+
 🛠️ Tech Stack
 
 | Technology       | Usage                   |
