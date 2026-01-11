@@ -39,12 +39,8 @@ This project is designed with a clean UI and component-based architecture, makin
 
 ## 🖥️ Application Preview
 
-> You can add screenshots after running the app.
-
-Example:
-
 ```md
-![Dashboard](public/screenshot-dashboard.png)
+![Dashboard](./public/screenshot-dashboard.png) 
 ![Add Record](public/screenshot-add-record.png)
 
 🛠️ Tech Stack
