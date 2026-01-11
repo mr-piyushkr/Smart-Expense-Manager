@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 ---
