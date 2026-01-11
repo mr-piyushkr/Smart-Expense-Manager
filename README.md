@@ -53,24 +53,26 @@ This project is designed with a clean UI and component-based architecture, makin
 | CSS3             | Styling                 |
 | Context API      | Global state management |
 
+---
 
-
-🚀 Getting Started
+## 🚀 Getting Started
 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/your-username/smart-expense-manager.git
 cd smart-expense-manager
 
 2️⃣ Install Dependencies
 ```bash
 npm install
-
+```
 3️⃣ Run the Application
 ```bash
 npm start
-
+```
 Open in browser:
 http://localhost:3000
+---
+
+---
 
 🧠 Use Case
 This application simulates a real-world personal finance tracker that can be used for:
@@ -80,6 +82,8 @@ This application simulates a real-world personal finance tracker that can be use
 3. Financial awareness
 
 It is a great demo project for React Frontend Developer roles.
+
+---
 
 👨‍💻 Author
 Piyush Kumar
