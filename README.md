@@ -86,6 +86,11 @@ It is a great demo project for React Frontend Developer roles.
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
 👨‍💻 Author
 Piyush Kumar
 Frontend / Full-Stack Developer
