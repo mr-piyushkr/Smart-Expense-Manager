@@ -23,6 +23,10 @@ It allows users to manage their income and expenses, monitor wallet balance, and
 
 This project is designed with a clean UI and component-based architecture, making it easy to extend and maintain.
 
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/Smart-Expense-Manager.git)
+
+🌐 Live Demo: [Link](https://smart-expense-manager-pied.vercel.app/)
+
 ---
 
 ## ✨ Features
